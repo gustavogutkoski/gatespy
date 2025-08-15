@@ -1,0 +1,26 @@
+# Cargo build output
+/target/
+
+# Executables
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# Editor files
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+[package]
+name = "gate_spy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
