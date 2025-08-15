@@ -20,7 +20,7 @@ This project is intended as a **learning exercise** for Rust, focusing on owners
 Clone the repository:
 
 ```bash
-    git clone https://github.com/your-username/gatespy.git
+    git clone https://github.com/gustavogutkoski/gatespy.git
     cd gatespy
 ```
 

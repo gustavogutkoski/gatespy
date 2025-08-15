@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "gate_spy"
+name = "gatespy"
 version = "0.1.0"
