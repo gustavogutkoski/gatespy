@@ -2,5 +2,13 @@
 name = "gatespy"
 version = "0.1.0"
 edition = "2024"
+authors = ["Gustavo Gutkoski <gustavogutkoski2609@gmail.com>"]
+description = "A small Rust port scanner project."
+repository = "https://github.com/gustavogutkoski/gatespy"
+license = "MIT"
 
-[dependencies]
+[dev-dependencies]
+criterion = "0.7.0"
+
+[profile.release]
+debug = true

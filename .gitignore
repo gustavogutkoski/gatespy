@@ -24,3 +24,9 @@
 
 # Logs
 *.log
+
+**/*.rs.bk
+*.flamegraph.svg
+flamegraph.svg
+*.data
+*.data.old
